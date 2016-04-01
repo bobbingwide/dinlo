@@ -1,0 +1,33 @@
+# Copyright (C) 2015 dinlo
+# This file is distributed under the same license as the dinlo package.
+msgid ""
+msgstr ""
+"Project-Id-Version: dinlo 0.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/dinlo\n"
+"POT-Creation-Date: 2015-09-05 14:21:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. Plugin Name of the plugin/theme
+msgid "dinlo"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.oik-plugins.com/oik-plugins/dinlo"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The world's worst Hello World plugin"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "bobbingwide"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.oik-plugins.com/author/bobbingwide"
+msgstr ""
