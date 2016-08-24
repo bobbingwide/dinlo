@@ -1,10 +1,11 @@
 # dinlo 
+![banner](https://raw.githubusercontent.com/bobbingwide/dinlo/master/assets/dinlo-banner-772x250.jpg)
 * Contributors: bobbingwide
 * Donate link: http://www.oik-plugins.com/oik/oik-donate/
 * Tags: Hello World, worst, dinlo
 * Requires at least: 4.3
-* Tested up to: 4.5-RC1
-* Stable tag: 0.0.1
+* Tested up to: 4.6
+* Stable tag: 0.0.2
 * License: GPLv2 or later
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -23,6 +24,8 @@ And mess around with it to your heart's content.
 
 PS. If you're intent on using dinlo to test new solutions to problems
 you might want to fix the dinlo_update_footer() filter function.
+
+And you might want to create PHPUnit tests for it too.
 
 ## Installation 
 
@@ -57,6 +60,9 @@ Try running dinlo without oik-bwtrace and see what I mean.
 1. Output when dinlo_am() is hooked up to respond to the "admin_menu" action hook
 
 ## Upgrade Notice 
+# 0.0.3 
+Tested with WordPress 4.6... but we know there's some bugs. They're intentional. And there's a useless PHPUnit test too.
+
 # 0.0.2 
 Tested with WordPress 4.5
 
@@ -64,6 +70,10 @@ Tested with WordPress 4.5
 First version to complement the video.
 
 ## Changelog 
+# 0.0.3 
+* Tested: With WordPress 4.6.
+* Added: Useless PHPUnit test
+
 # 0.0.2 
 * Tested: With WordPress 4.5
 

@@ -3,7 +3,7 @@
 Plugin Name: dinlo
 Plugin URI: http://www.oik-plugins.com/oik-plugins/dinlo
 Description: The world's worst Hello World plugin
-Version: 0.0.2
+Version: 0.0.3
 Author: bobbingwide
 Author URI: http://www.oik-plugins.com/author/bobbingwide
 Text Domain: dinlo
