@@ -92,8 +92,21 @@ function dinlo_update_footer( $update ) {
  * @return string updated AJAX die handler function
  */
 function dinlo_die( $ajax_handler ) {
-	bw_trace2( null, null, true, BW_TRACE_ERROR );
+	if ( function_exists( "bw_trace2" ) ) {
+		bw_trace2( null, null, true, BW_TRACE_ERROR );
+	}
   return( "dinlo_not_there" );
+}
+
+
+/**
+ * 
+ */
+function dinlo_l10n() {
+	$fred = __( "dinlo l10n", "dinlo" );
+	p( "dinlo original p" );
+	p( __( "dinlo p", "dinlo" ) );
+	BW_::p( __( "dinlo BW_ p", "dinlo" ) );
 }
 
 

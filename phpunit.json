@@ -1,22 +1,10 @@
-{
-    "event": "suiteStart",
-    "suite": "",
-    "tests": 1
-}{
-    "event": "suiteStart",
-    "suite": "test_dinlo",
-    "tests": 1
-}{
-    "event": "testStart",
-    "suite": "test_dinlo",
-    "test": "test_dinlo::test_something"
-}{
-    "event": "test",
-    "suite": "test_dinlo",
-    "test": "test_dinlo::test_something",
-    "status": "pass",
-    "time": 1.7182559967041,
-    "trace": [],
-    "message": "",
-    "output": ""
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="6.880331">
+    <testsuite name="normal" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="6.880331">
+      <testsuite name="test_dinlo" file="C:\apache\htdocs\wordpress\wp-content\plugins\dinlo\tests\test-dinlo.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="6.880331">
+        <testcase name="test_something" class="test_dinlo" classname="test_dinlo" file="C:\apache\htdocs\wordpress\wp-content\plugins\dinlo\tests\test-dinlo.php" line="4" assertions="1" time="6.880331"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>

@@ -1,33 +1,57 @@
-# Copyright (C) 2015 dinlo
+# Copyright (C) 2017 dinlo
 # This file is distributed under the same license as the dinlo package.
 msgid ""
 msgstr ""
-"Project-Id-Version: dinlo 0.0.1\n"
+"Project-Id-Version: dinlo 0.0.3\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/dinlo\n"
-"POT-Creation-Date: 2015-09-05 14:21:31+00:00\n"
+"POT-Creation-Date: 2017-06-27 21:12:17+00:00\n"
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
 "Language: bb_BB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+#: dinlo.php:104
+msgid "dinlo l10n"
+msgstr "dnilo l10n"
+
+
+#: dinlo.php:105
+msgid "dinlo original p"
+msgstr "dnilo oiriganl p"
+
+
+#: dinlo.php:106
+msgid "dinlo p"
+msgstr "dnilo p"
+
+
+#: dinlo.php:107
+msgid "dinlo BW_ p"
+msgstr "dnilo BW_ p"
+
+
 #. Plugin Name of the plugin/theme
 msgid "dinlo"
-msgstr "dilno"
+msgstr "dnilo"
+
 
 #. Plugin URI of the plugin/theme
 msgid "http://www.oik-plugins.com/oik-plugins/dinlo"
 msgstr "http://www.oik-plugins.com/oik-plugins/dinlo"
 
+
 #. Description of the plugin/theme
 msgid "The world's worst Hello World plugin"
-msgstr "ThE wrold's wsrot Hlleo Wlord piugln"
+msgstr "ThE wrold's wrost Hlelo Wrold pulign"
+
 
 #. Author of the plugin/theme
 msgid "bobbingwide"
-msgstr "bgobdinibwe"
+msgstr "bboibgniwde"
+
 
 #. Author URI of the plugin/theme
 msgid "http://www.oik-plugins.com/author/bobbingwide"

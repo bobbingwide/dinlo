@@ -8,19 +8,22 @@
 	>
 	<!-- for PHPUnit 4.8.0 or 5.5.0 -->
 	<testsuites>
-		<testsuite name="normal">
-			<directory prefix="test-" suffix=".php">tests/</directory>
-		</testsuite>
 		<testsuite name="ajax">
 			<directory prefix="ajax-" suffix=".php">tests/</directory>
 		</testsuite>
 	</testsuites>
 	
 	<groups>
-		<exclude>
+		<include>
 			<group>ajax</group>
-		</exclude>
+		</include>
 	</groups>
+	<php>
+		<const name="DOING_AJAX" value='true' />
+	</php>
+	<logging>
+		<log type="json" target="phpunit-ajax.json" />
+	</logging>
 	
 
 </phpunit>
